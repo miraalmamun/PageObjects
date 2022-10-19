@@ -6,13 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 public class LoginPage {
-	//se.le.ni.umtraining10@gmail.com
 	
-	//@FindBy(id="login_id")
-	//WebElement usernameField;
-	
-	//@FindBy(id="nextbtn")
-	//WebElement nextButton;
 	
 	WebDriver driver;
 	public LoginPage(WebDriver driver)
