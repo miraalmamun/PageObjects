@@ -34,5 +34,5 @@ public class LoginTest {
 		LandingPage landingPage = loginPage.doLogin("se.le.ni.umtraining10@gmail.com", "Zoho@123");
 	}
 	*/
-	
+	System.out.println("Testing");
 }
